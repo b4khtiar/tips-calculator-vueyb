@@ -95,7 +95,7 @@ function reset() {
             </div>
             <div class="mb-6">
                 <div class="mb-2">
-                    <label for="tips-select">Select Tip %</label>
+                    <p>Select Tip %</p>
                 </div>
                 <div id="tips-select" class="grid grid-cols-2 gap-4 text-2xl md:grid-cols-3 text-White">
                     <button @click="setTip(5)" :class="{ 'bg-Strong-cyan text-Very-dark-cyan': tip == 5 }"

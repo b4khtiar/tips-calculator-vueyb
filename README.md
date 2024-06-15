@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [here](https://www.frontendmentor.io/solutions/vue---tips-calculator-URK-dIVIZr)
+- Live Site URL: [here](https://tips-calculator-vueyb.vercel.app/)
 
 ## My process
 
@@ -46,5 +46,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Github - [b4khtiar](https://www.github.com/b4khtiar)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
